@@ -1,7 +1,5 @@
 # Wikipedia Graph Scrapper
 
-## Yoel Ashkenazi
-
 This repository contains methods and tools that help the creation of multilingual graphs with wikipedia subjects, with page hyperlinks as red edges, and page translations as blue edges.
 
 ### requirements
